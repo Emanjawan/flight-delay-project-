@@ -8,20 +8,20 @@ Malk Arouri-1173280
 
 Project Description:
 
-This project aims to analyze and predict flight delays across multiple countries using data science techniques. We will collect data from different sources, clean and preprocess it, and perform exploratory data analysis to understand the main factors affecting delays. Finally, we will build a machine learning model to predict flight delays or estimate delay duration. (done by mallk and eman)
+This project aims to analyze and predict flight delays across multiple countries using data science techniques. We will collect data from different sources, clean and preprocess it, and perform exploratory data analysis to understand the main factors affecting delays. Finally, we will build a machine learning model to predict flight delays or estimate delay duration. 
 
 
 Tools and Technologies:
 
-Python (done by mallk and eman)
-Jupyter Notebook (done by mallk and eman)
-Anaconda (done by mallk and eman)
-GitHub (done by mallk and eman)
+Python 
+Jupyter Notebook 
+Anaconda 
+GitHub 
 
 Libraries:
 
-Pandas for dataframes (done by mallk and eman)
-NumPy for operations (done by mallk and eman)
-Matplotlib for drawing plots (done by mallk and eman)
-Seaborn for data visualization (done by mallk and eman)
-Scikit-learn for building machine learning models (done by mallk and eman)
+Pandas for dataframes 
+NumPy for operations 
+Matplotlib for drawing plots 
+Seaborn for data visualization 
+Scikit-learn for building machine learning models 
